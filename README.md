@@ -1,4 +1,4 @@
-# Hi there 👋
+# Bonjour 💗
 
 ## This is Ishika Bansal, incoming SDE intern at Microsoft' 2021. 
 
