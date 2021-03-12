@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 ## My name is Ishika Bansal and I am an incoming SDE intern at Microsoft ' 2021. 
 
-# I am pursuing B.Tech in Computer Science Engineering , currently in my 3rd year. I am an active open source contributor and a Tech enthusiast. 
+I am pursuing B.Tech in Computer Science Engineering , currently in my 3rd year. I am an active open source contributor and a Tech enthusiast. 
 
 <!--
 **ishikabansal04/ishikabansal04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishikabansal04&show_icons=true&theme=dark)
+![Ishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishikabansal04&show_icons=true&theme=radical)
