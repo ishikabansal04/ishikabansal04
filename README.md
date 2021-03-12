@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My name is Ishika Bansal and I am an incoming SDE intern at Microsoft ' 2021. 
+## My name is Ishika Bansal and I am an incoming SDE intern at Microsoft ' 2021. Selected for Flipkart Girls Wanna Code Program 2021 and Microsoft Codess Program 2020.  
 
 I am pursuing B.Tech in Computer Science Engineering , currently in my 3rd year. I am an active open source contributor and a Tech enthusiast. 
 
