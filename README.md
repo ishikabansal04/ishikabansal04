@@ -29,6 +29,16 @@ Here are some ideas to get you started:
 
 
 
-![Ishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishikabansal04&show_icons=true&theme=radical)
+<a href="https://github.com/ishikabansal04/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishikabansal04&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/ishikabansal04/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikabansal04&langs_count=10" />
+</a>
+
+<!--
+[![Top Langs]()]
+![Ishika's GitHub stats]()
+-->
 
 ![Ishika's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ishikabansal04&theme=xcode)
