@@ -36,6 +36,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikabansal04&langs_count=10&theme=radical&layout=compact" />
 </a>
 
+<br>
+<hr>
+<br>
 <!--
 [![Top Langs]()]
 ![Ishika's GitHub stats]()
