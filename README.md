@@ -22,12 +22,15 @@ Here are some ideas to get you started:
 
 
 - 👨‍💻 **Mentor** at LEAN IN IGDTUW ...
-- 🌱 Currently learning React JS ...
-- 💬 Discuss with me about anything related to tech ...
-- 👧 Pronouns: She/ Her ...
+- 🌱 **Currently learning** React JS ...
+- 💬 **Discuss with me** about anything related to tech ...
+- 👧 **Pronouns:** She/ Her ...
 - 🌟 **Contributed To:** DevelopHer Twitter, Codonfest, Microsoft Codess, Smart Interz, WireUs Challenge, Google Cloud, JP Morgan Virtual Software Engg Experience.
-- ⚡ Fun fact: ...
+- ⚡ **Fun fact:** My perfect day would start with coffee ☕ & ends with coffee ☕ ...
 
+<br>
+<br>
+## Contributions:
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=ishikabansal04&show_icons=true&theme=radical">
@@ -40,9 +43,6 @@ Here are some ideas to get you started:
 <br>
 <hr>
 <br>
-<!--
-[![Top Langs]()]
-![Ishika's GitHub stats]()
--->
+
 
 ![Ishika's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ishikabansal04&theme=xcode)
