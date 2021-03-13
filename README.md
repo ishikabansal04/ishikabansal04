@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 <br>
 ## Contributions:
 
-
+<br>
 <a href="https://github-readme-stats.vercel.app/api?username=ishikabansal04&show_icons=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishikabansal04&show_icons=true&theme=radical" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikabansal04&langs_count=10&theme=radical&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikabansal04&langs_count=10&theme=radical&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikabansal04&langs_count=20&theme=radical&layout=compact" />
 </a>
 
 <br>
