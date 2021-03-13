@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-## Contributions:
+<h2>Contributions:</h2>
 
 <br>
 <a href="https://github-readme-stats.vercel.app/api?username=ishikabansal04&show_icons=true&theme=radical">
