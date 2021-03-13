@@ -2,7 +2,7 @@
 
 ## This is Ishika Bansal, incoming SDE intern at Microsoft' 2021. 
 
-I am pursuing B.Tech in Computer Science Engineering , currently in my 3rd year. I am an active open source contributor and a Tech enthusiast. I have been selected for Flipkart Girls Wanna Code Program 2021 and also for Microsoft Codess Program 2020.  
+I am pursuing B.Tech in Computer Science Engineering , currently in my 3rd year. I am an active open source contributor and a Tech enthusiast. I have been selected for Flipkart Girls Wanna Code Program 2021 and also for Microsoft Codess Program 2020. 
 
 <!--
 **ishikabansal04/ishikabansal04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 
 
 - 👨‍💻 **Mentor** at LEAN IN IGDTUW ...
-- 🌱 Currently learning React ...
+- 🌱 Currently learning React JS ...
 - 💬 Discuss with me about anything related to tech ...
 - 👧 Pronouns: She/ Her ...
+- 🌟 **Contributed To:** DevelopHer Twitter, Codonfest, Microsoft Codess, Smart Interz, WireUs Challenge, Google Cloud, JP Morgan Virtual Software Engg Experience.
 - ⚡ Fun fact: ...
 
 
