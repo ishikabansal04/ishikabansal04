@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/ishikabansal04/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=ishikabansal04&show_icons=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishikabansal04&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/ishikabansal04/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikabansal04&langs_count=10&theme=radical&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikabansal04&langs_count=10&theme=radical&layout=compact" />
 </a>
 
