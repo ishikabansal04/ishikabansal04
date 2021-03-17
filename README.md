@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 <a href="https://github-readme-stats.vercel.app/api?username=ishikabansal04&show_icons=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishikabansal04&show_icons=true&theme=radical" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikabansal04&langs_count=10&theme=radical&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikabansal04&langs_count=20&theme=radical&layout=compact" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikabansal04&langs_count=10&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikabansal04&langs_count=20&theme=radical" />
 </a>
 
 <br>
@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 
 
 ![Ishika's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ishikabansal04&theme=xcode)
+
+![Ishika's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishikabansal04&theme=xcode)
 
 <br>
 <hr>
