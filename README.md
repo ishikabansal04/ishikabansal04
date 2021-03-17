@@ -44,10 +44,12 @@ Here are some ideas to get you started:
 <hr>
 <br>
 
+<p align ="center">
+  ![Ishika's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ishikabansal04&theme=xcode)
+   <hr>
+  ![Ishika's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishikabansal04&theme=black-ice)
+</p>
 
-![Ishika's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ishikabansal04&theme=xcode)
-
-![Ishika's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishikabansal04&theme=black-ice)
 
 <br>
 <hr>
