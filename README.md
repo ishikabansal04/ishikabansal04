@@ -95,7 +95,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" alt= "Gmail"/>
   </a>
    <a href="#">
-    <img src="https://img.icons8.com/cotton/64/000000/domain.png" alt= "Portfolio"/>
+    <img src="https://img.icons8.com/cotton/64/000000/domain.png" width="75%" alt= "Portfolio"/>
   </a>
 </p>
 
