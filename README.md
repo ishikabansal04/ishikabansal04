@@ -97,6 +97,9 @@ Here are some ideas to get you started:
   <a href="https://www.hackerrank.com/IshikaBansal04">
     <img src="https://img.icons8.com/windows/32/26e07f/hackerrank.png" width="5%" alt= "Hackerrank"/>
   </a>
+  <a href="https://leetcode.com/ishikabansal/">
+    <img src="https://github.com/ishikabansal04/ishikabansal04/blob/main/LeetCode_logo_black.png" width="5%" alt="Leetcode"/>
+  </a>
    <a href="#">
     <img src="https://img.icons8.com/cotton/64/000000/domain.png" width="5%" alt= "Portfolio"/>
   </a>
