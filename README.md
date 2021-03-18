@@ -76,5 +76,17 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/ishika.bansal.167/">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt= "facebook"/>
   </a>
+  <a href="https://www.instagram.com/ishikabansal8/">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt= "Instagram"/>
+  </a>
+  <a href="https://twitter.com/IshikaB82743361">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt= "twitter"/>
+  </a>
+  <a href="https://github.com/ishikabansal04">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt= "github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ishika-bansal-9893b3184/">
+    <img src="https://img.icons8.com/fluent/50/000000/linkedin.png" alt= "linkedin"/>
+  </a>
 </p>
 
