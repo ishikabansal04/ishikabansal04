@@ -95,7 +95,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" alt= "Gmail"/>
   </a>
   <a href="https://www.hackerrank.com/IshikaBansal04">
-    <img src="https://img.icons8.com/windows/32/26e07f/hackerrank.png" width="10%" alt= "Hackerrank"/>
+    <img src="https://img.icons8.com/windows/32/26e07f/hackerrank.png" width="7%" alt= "Hackerrank"/>
   </a>
    <a href="#">
     <img src="https://img.icons8.com/cotton/64/000000/domain.png" width="5%" alt= "Portfolio"/>
