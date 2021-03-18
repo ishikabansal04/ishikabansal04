@@ -88,5 +88,11 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/ishika-bansal-9893b3184/">
     <img src="https://img.icons8.com/fluent/50/000000/linkedin.png" alt= "linkedin"/>
   </a>
+  <a href="https://www.qwiklabs.com/public_profiles/d5b12491-eaeb-4d90-a591-144268598c99">
+    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt= "Google Cloud"/>
+  </a>
+  <a href="mailto:ikabansal04@gmail.com/">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" alt= "Gmail"/>
+  </a>
 </p>
 
