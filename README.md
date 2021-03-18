@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 ### Contact Me At:
 <p align = "center">
   <a href="https://www.facebook.com/ishika.bansal.167/">
-    <img src="https://img.icons8.com/cute-clipart/50/000000/facebook-new.png" alt="facebook"/>
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt= "facebook"/>
   </a>
 </p>
 
