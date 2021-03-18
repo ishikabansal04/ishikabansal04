@@ -83,7 +83,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt= "twitter"/>
   </a>
   <a href="https://github.com/ishikabansal04">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt= "github"/>
+    <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt= "github"/>
   </a>
   <a href="https://www.linkedin.com/in/ishika-bansal-9893b3184/">
     <img src="https://img.icons8.com/fluent/50/000000/linkedin.png" alt= "linkedin"/>
