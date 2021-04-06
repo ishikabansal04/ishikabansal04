@@ -46,9 +46,10 @@ Here are some ideas to get you started:
 
 
  ![Ishika's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ishikabansal04&theme=xcode)
- ![Ishika's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishikabansal04&theme=black-ice)
-
-
+ <p align ="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishikabansal04&theme=black-ice" />
+  </p>
+ 
 <br>
 <hr>
 <br>
