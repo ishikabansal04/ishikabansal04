@@ -2,6 +2,7 @@
 
 ## This is Ishika Bansal, SWE intern at Microsoft' 2021. 
 
+
 I am pursuing B.Tech in Computer Science Engineering , currently in my 3rd year. I am an active open source contributor and a Tech enthusiast. I have been selected for Flipkart Girls Wanna Code Program 2021 and also for Microsoft Codess Program 2020. 
 
 <!--
@@ -106,4 +107,3 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/cotton/64/000000/domain.png" width="5%" alt= "Portfolio"/>
   </a>
 </p>
-
