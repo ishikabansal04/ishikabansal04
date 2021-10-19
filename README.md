@@ -3,7 +3,7 @@
 ## This is Ishika Bansal, SWE intern at Microsoft' 2021. 
 
 
-I am pursuing B.Tech in Computer Science Engineering , currently in my 3rd year. I am an active open source contributor and a Tech enthusiast. I have been selected for Flipkart Girls Wanna Code Program 2021 and also for Microsoft Codess Program 2020. 
+I am pursuing B.Tech in Computer Science Engineering , currently in my final year. I am an active open source contributor and a Tech enthusiast. I have been selected for Flipkart Girls Wanna Code Program 2021 and also for Microsoft Codess Program 2020. 
 
 <!--
 **ishikabansal04/ishikabansal04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -103,17 +103,24 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-<p align="center">
-  
-  
-  
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-  
-  
+### Profiles
+<p align = "center">
+  <a href="https://github.com/ishikabansal04">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt= "github"/>
+  </a>
+  <a href="https://leetcode.com/ishikabansal/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt= "leetcode"/>
+  </a>
+  <a href="https://www.hackerrank.com/IshikaBansal04">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt= "hackerrank"/>
+  </a>
+  <a href="https://www.qwiklabs.com/public_profiles/d5b12491-eaeb-4d90-a591-144268598c99">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt= "Google Cloud"/>
+  </a>
 </p>
-  
-  
-### Contact Me At:
+
+
+## Contact Me At:
 <p align = "center">
   <a href="https://www.facebook.com/ishika.bansal.167/">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt= "facebook"/>
@@ -130,18 +137,21 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/ishika-bansal-9893b3184/">
     <img src="https://img.icons8.com/fluent/50/000000/linkedin.png" alt= "linkedin"/>
   </a>
-  <a href="https://www.qwiklabs.com/public_profiles/d5b12491-eaeb-4d90-a591-144268598c99">
+<!--   <a href="https://www.qwiklabs.com/public_profiles/d5b12491-eaeb-4d90-a591-144268598c99">
     <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt= "Google Cloud"/>
-  </a>
+  </a> -->
   <a href="mailto:ikabansal04@gmail.com/">
     <img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" alt= "Gmail"/>
   </a>
-  <a href="https://www.hackerrank.com/IshikaBansal04">
+<!--   <a href="https://www.hackerrank.com/IshikaBansal04">
     <img src="https://img.icons8.com/windows/32/26e07f/hackerrank.png" width="5%" alt= "Hackerrank"/>
   </a>
   <a href="https://leetcode.com/ishikabansal/">
     <img src="https://github.com/ishikabansal04/ishikabansal04/blob/main/LeetCode_logo.png" width="4%" alt="Leetcode"/>
-  </a>
+  </a> -->
+   <a href="Ishika#9800">
+    <img src="https://img.icons8.com/fluency/50/000000/discord-logo.png" alt= "discord"/>
+   </a>
    <a href="#">
     <img src="https://img.icons8.com/cotton/64/000000/domain.png" width="5%" alt= "Portfolio"/>
   </a>
