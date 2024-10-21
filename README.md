@@ -1,9 +1,9 @@
 # Bonjour 💗
 
-## This is Ishika Bansal, Software Engineer at Microsoft. 
+## This is Ishika Bansal, Software Engineer 2 at Google. 
 
 
-I have pursued B.Tech in Computer Science Engineering from IGDTUW. I am an active open source contributor and a Tech enthusiast. I have also worked as an intern at Microsoft in 2022. I have been selected for Flipkart Girls Wanna Code Program 2021 and also for Microsoft Codess Program 2020. 
+I have pursued B.Tech in Computer Science Engineering from IGDTUW. I am an active open source contributor and a Tech enthusiast. Previously I have worked as a Software Engineer at Microsoft (L60). I have also worked as an intern at Microsoft in 2022. I have been selected for Flipkart Girls Wanna Code Program 2021 and also for Microsoft Codess Program 2020. 
 
 <!--
 **ishikabansal04/ishikabansal04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
